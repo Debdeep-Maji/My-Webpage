@@ -1,0 +1,64 @@
+.travel_div{
+    border: 1px solid #c7c7c7;
+    padding: 15px;
+    float: none;
+    margin-bottom: 20px;
+}
+.travel_div img{
+    width: 90%;
+}
+.travel_div hr{
+    width: 250px;
+}
+.movie-head {
+    font-size: 20px;
+    padding: 6px 22px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie-head i{
+    float: right;
+    }
+.glyphicon-star{
+    color: goldenrod;
+}
+.movie-head h4{ display: inline}
+
+.news-li{margin-top: 15px;
+border-radius: 10px;}
+
+.news-li h4{
+    border-bottom: solid white 1px ;
+    padding: 8px;
+}
+.container iframe
+{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+#aboutme img{
+    height: 100px;
+    width:125px;
+    border-radius:50%;
+    border-width:1px;
+}
+#aboutme{
+    margin-bottom:50px;
+}
+.book {
+    cursor: pointer;
+}
+.img_modal{
+    display: inline-block;
+    width: 30%;
+}
+.modal{
+    width: 40%;
+}
+#t{
+    margin-top: 100px;
+}
+.img{
+    width: 100%;
+}
